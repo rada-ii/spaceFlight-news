@@ -89,7 +89,7 @@ div .card {
   height: 80vh;
   max-width: 100%;
   margin-top: 5rem;
-  border-radius: 15rem;
+  /* border-radius: 15rem; */
   object-fit: contain;
 }
 
