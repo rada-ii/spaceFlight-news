@@ -25,6 +25,7 @@ function Home() {
   return (
     <>
       <h1>Spaceflight News Articles</h1>
+      <h2>(click on the card for details)</h2>
       <div className="article-grid">
         {articles.map((article) => (
           <Link to={`/${article.id}`} key={article.id} className="grid-cell">

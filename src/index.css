@@ -108,7 +108,8 @@ p {
   color: #4f8bbc;
 }
 
-h1 {
+h1,
+h2 {
   text-align: center;
 }
 
