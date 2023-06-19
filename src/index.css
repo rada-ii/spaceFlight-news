@@ -64,13 +64,13 @@ div .card {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  align-items: stretch;
+  align-items: center;
   align-content: stretch;
 }
 
 .card img {
   max-width: 100%;
-  max-height: 35rem;
+  max-height: 45rem;
   object-fit: cover;
 }
 
@@ -104,4 +104,8 @@ div .card {
 
 h2 {
   font-size: 1rem;
+}
+
+h1 {
+  text-align: center;
 }
