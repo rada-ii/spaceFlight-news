@@ -89,7 +89,7 @@ div .card {
   height: 80vh;
   max-width: 100%;
   margin-top: 5rem;
-  border-radius: 1rem;
+  border-radius: 15rem;
   object-fit: contain;
 }
 
@@ -102,10 +102,16 @@ div .card {
   flex-grow: 1;
 }
 
-h2 {
+h2,
+p {
   font-size: 1rem;
+  color: #4f8bbc;
 }
 
 h1 {
   text-align: center;
+}
+
+a {
+  text-decoration: none;
 }
