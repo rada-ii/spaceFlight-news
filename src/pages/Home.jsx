@@ -13,7 +13,7 @@ function Home() {
         );
         const data = await response.json();
         console.log(data);
-        setArticles(data.slice(0, 9));
+        setArticles(data.slice(1, 10));
       } catch (error) {
         console.log("Error fetching data:", error);
       }
