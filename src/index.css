@@ -54,7 +54,7 @@
 .card {
   background-color: #f2f2f2;
   padding: 20px;
-  border-radius: 5px;
+  border-radius: 4px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   /* max-height: 52rem; */
   padding-bottom: 1rem !important;
@@ -91,7 +91,6 @@ div .card {
   max-width: 100%;
   margin-top: 5rem;
   margin-bottom: 0 !important;
-  /* border-radius: 15rem; */
   object-fit: cover;
 }
 
