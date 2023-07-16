@@ -3,6 +3,7 @@ checkout live: https://space-flight-news-ten.vercel.app/
 # spaceFlight-news
 
 This is a simple web application that allows users to see some news and images about space from Api endpoint.
+# Technologies used: React, Vanilla Css.
 
 ## Getting Started
 
